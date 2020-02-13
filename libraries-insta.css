@@ -1,0 +1,51 @@
+.widget-container .card-header .card-profile .profile-like.instagram {
+    border-color: #007fa5 !important;
+}
+a.thumbnail.hover-none figure.thumbnail-image {
+    height: 92% !important;
+    object-fit: fill !important;
+}
+
+.widget-container .card-body .post-profile .service {
+    margin-top: 0;
+    display: none  !important;
+}
+.widget-container .card-header {
+    display: none  !important;
+}
+.widget-container .card-body .posts .post {
+    padding: 20px;
+    margin: 0px 0 !important;
+}
+.widget-container .card-body {
+    padding: 0 0px !important;
+}
+.module.instagram {
+    max-height: 370px;
+}
+.thumbnail-wrapper .thumbnail .thumbnail-image {
+    height: 270px ;
+
+}
+.thumbnail-wrapper .thumbnail .thumbnail-image .object-fit {
+    background: #007fa5 !important;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .thumbnail-wrapper .thumbnail .thumbnail-image {height: 205px !important;}
+}
+@media (max-width: 991px) {
+    iframe.snapwidget-widget {height: 270px;}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    iframe.snapwidget-widget {height: 275px;}
+}
+@media (min-width: 1200px) {
+    iframe.snapwidget-widget {height: 330px;}
+}
+.share-overlay {
+    display: none;
+}
+.module.instagram .social-content {
+    background: #007fa5 !important;
+}
+.widget-container{background-color: #007fa5;}
