@@ -1,4 +1,5 @@
 .widget-container .card-header .card-profile .profile-like.instagram {
+    background-color:  !important;
     border-color: #007fa5 !important;
 }
 a.thumbnail.hover-none figure.thumbnail-image {
